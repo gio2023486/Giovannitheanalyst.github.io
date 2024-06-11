@@ -178,6 +178,7 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
+		text-align: center;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -210,6 +211,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.25rem;
 		margin: 0 0 1.5rem 0;
+		text-align:center;
 	}
 
 	h4 {
@@ -2804,6 +2806,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		text-align:center;
 	}
 
 		ul.icons li {
